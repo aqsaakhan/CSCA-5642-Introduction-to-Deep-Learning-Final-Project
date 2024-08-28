@@ -1,5 +1,6 @@
 # Meat Quality Assessment - Deep Learning Project
 #### Aqsa Anwar
+#### 28th-Aug-2024
 **[GitHub Repository](https://github.com/aqsaakhan/CSCA-5642-Introduction-to-Deep-Learning-Final-Project)**
 
 ## 1. Introduction
